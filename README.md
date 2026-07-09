@@ -11,7 +11,7 @@
 
 ---
 
-## 🎯 Problem & Solution
+##  Problem & Solution
 
 ### The Problem
 - **2.2 billion people** globally have vision impairment (WHO 2023)
